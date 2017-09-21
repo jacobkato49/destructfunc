@@ -6,18 +6,14 @@
 ## Table of Contents
 
 - [Background](#background)
-- [Install](#install)
 - [Usage](#usage)
 - [Maintainers](#maintainers)
 - [Contribute](#contribute)
 - [License](#license)
 
 ## Background
-
-## Install
-
-```
-```
+Practice using ES6 destructuring assignment within function parameters.
+http://www.jstips.co/en/javascript/use-destructuring-in-function-parameters/
 
 ## Usage
 
